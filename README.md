@@ -1,7 +1,9 @@
 
 ## 🌐 Socials:
-[![Instagram](https://www.instagram.com/_aryash_singh?rpxt=bW91ZGI5ZHFpcGUy)](https://instagram.com/Aryash singh) [![LinkedIn](https://www.linkedin.com/in/aryash-singh-0a4806410?utm_source)](https://linkedin.com/in/Aryash singh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Aryash singh) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Aryash Singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryashsingh53@gmail.com) 
-
+Email: aryashsingh53@gmail.com
+LinkedIn: https://www.linkedin.com/in/aryash-singh-0a4806410
+GitHub: https://github.com/aryashsingh53-AG
+portfolio: https://aryashsingh53-ag.github.io/
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
